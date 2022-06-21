@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio FullStack MaxxiData </h1>
+<h1 align="center"> Desafio FullStack </h1>
 
 ## Projeto desenvolvido para controle e categorização de profissonais. Este sistema permite o cadastro, acesso, consulta e relacionamento entre as categorias profissionais.
 <h4 align="center"> 
